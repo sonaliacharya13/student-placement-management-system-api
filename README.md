@@ -2,7 +2,7 @@
 
 A backend REST API project built using Spring Boot and MySQL to manage students, companies, and placement applications.
 
-## Tech Stack
+## Technologies used
 - Java
 - Spring Boot
 - Spring Data JPA
@@ -56,16 +56,6 @@ A backend REST API project built using Spring Boot and MySQL to manage students,
 - GET `/applications/{id}`
 - PUT `/applications/{id}`
 - DELETE `/applications/{id}`
-
-## Project Structure
-
-src/main/java/com/sonali/student_placement_management_system
-│
-├── controller
-├── entity
-├── repository
-├── service
-└── StudentPlacementManagementSystemApplication.java
 
 ## Learning Outcomes
 This project helped me understand:
